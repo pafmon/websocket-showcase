@@ -1,4 +1,4 @@
-# flockjs
+## Websocket Showcase 
 Simple collaborative coding for JS to showcase websockets (using socket.io)
 you can try a **on-line demo** deployment at: https://websocket-showcase.herokuapp.com 
 
